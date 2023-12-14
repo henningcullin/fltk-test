@@ -74,6 +74,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "fltk-test"
+version = "0.1.0"
+dependencies = [
+ "fltk",
+]
+
+[[package]]
 name = "libc"
 version = "0.2.151"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -84,13 +91,6 @@ name = "paste"
 version = "1.0.14"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "de3145af08024dea9fa9914f381a17b8fc6034dfb00f3a84013f7ff43f29ed4c"
-
-[[package]]
-name = "rust-calculator"
-version = "0.1.0"
-dependencies = [
- "fltk",
-]
 
 [[package]]
 name = "ttf-parser"

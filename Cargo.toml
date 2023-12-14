@@ -1,5 +1,5 @@
 [package]
-name = "rust-calculator"
+name = "fltk-test"
 version = "0.1.0"
 edition = "2021"
 
